@@ -1,0 +1,6 @@
+framework module IDLUIKit {
+  umbrella header "IDLUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
