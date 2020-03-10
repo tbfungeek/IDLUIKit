@@ -1,6 +1,0 @@
-module Pods_IDLUIKit_Tests {
-  umbrella header "Pods-IDLUIKit_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
